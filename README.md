@@ -1,21 +1,20 @@
 # Jumper
 
-A simple browser-based jumper game. Jump over obstacles and try to beat your high score.
+A simple browser jumper game. Jump over obstacles, avoid the 💩, and try to beat your high score.
+
+**▶ [Play Now](https://smallsheep993.github.io/A-Jumper-Game/)**
+
+---
 
 ## How to Play
 
-- **Space** or **Click** — Jump (and start game / restart after game over)
-- Avoid the obstacles and stay alive as long as you can. The game speeds up over time.
+- **Space** or **Click** — Jump (also starts the game and restarts after game over)
+- The game speeds up over time. Your high score is saved in the browser.
+
+---
 
 ## Run Locally
 
-1. Clone the repo: `git clone https://github.com/SmallSheep993/A-Jumper-Game.git`
-2. Open `index.html` in your browser (e.g. double-click, or use a local server).
-
-## Tech Stack
-
-- HTML5 Canvas
-- Vanilla JavaScript (no frameworks)
-- CSS
-
-## Project Structure
+```bash
+git clone https://github.com/SmallSheep993/A-Jumper-Game.git
+cd A-Jumper-Game
